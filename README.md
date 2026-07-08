@@ -1,7 +1,7 @@
-# Hi, I'm Omar Farrag 👋
-I am a Research Assistant at the Federal Reserve Board of Governors in the Department of International Finance. 
+# Hi there, I'm Omar 👋
+I am a Research Assistant at the Federal Reserve Board of Governors in the International Finance Division. 
 
-## Research Interests
+## My Research Interests
 - Firm behavior and competition
 - Innovation 
 - Health Economics
