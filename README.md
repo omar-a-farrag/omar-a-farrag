@@ -4,6 +4,6 @@ I am a Research Assistant at the Federal Reserve Board of Governors in the Inter
 ## My Research Interests
 - Firm behavior and competition
 - Innovation 
-- Health Economics
+- Health economics
 
 Website: [still under construction]
