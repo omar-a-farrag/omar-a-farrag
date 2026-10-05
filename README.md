@@ -6,4 +6,4 @@ I am a Research Assistant at the Federal Reserve Board of Governors in the Inter
 - Innovation 
 - Health economics
 
-Website: [still under construction]
+Website: https://omar-a-farrag.github.io/
