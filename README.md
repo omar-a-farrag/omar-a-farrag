@@ -2,7 +2,7 @@
 I am a Research Assistant at the Federal Reserve Board of Governors in the International Finance Division. 
 
 ## My Research Interests
-- Firm behavior and competition
+- IO and firm behavior, dynamics, and competition
 - Innovation 
 - Health economics
 
